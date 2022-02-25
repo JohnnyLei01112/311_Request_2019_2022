@@ -2,15 +2,14 @@
  # DataViz Team 5 
 
  
- Ayra Akhter 
-  --------------
- Tina Gurung  
-  --------------
- You Bin Lei
-  --------------
- Alex Lin  
-  --------------
- Ting Haw Tu  
-  --------------
- Xiang Zheng      
-  --------------
+ >Ayra Akhter  
+ 
+ >Tina Gurung  
+
+ >You Bin Lei
+
+ >Alex Lin  
+
+ >Ting Haw Tu  
+
+ >Xiang Zheng      
